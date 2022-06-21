@@ -1,6 +1,6 @@
 # destini 🔮
 
-A choose your own adventure game.
+A choose your own adventure game. Built using flutter.
 
 ## Screenshots
 
