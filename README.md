@@ -1,16 +1,9 @@
-# destini
+# destini 🔮
 
 A choose your own adventure game.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Icon            |  Story Screen
+:-------------------------:|:-------------------------:
+<img width=300/ src = "https://github.com/sambarannnn/destini-flutter/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-06-21%20at%2013.21.40.png">  |  <img width=300/ src = "https://github.com/sambarannnn/destini-flutter/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20-%202022-06-21%20at%2013.21.48.png">
